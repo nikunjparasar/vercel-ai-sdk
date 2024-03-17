@@ -12,7 +12,7 @@ export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
     default: 'TERMINA AI',
-    template: `%s - Next.js AI Chatbot`
+    template: `%s - Termina AI Chat` 
   },
   description: 'Next Gen Financial Research Platform.',
   icons: {
